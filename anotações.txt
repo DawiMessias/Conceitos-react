@@ -1,0 +1,5 @@
+Babel => converte (transpila) código do React mais atualizado  que o Browser entenda
+WebPack => para cada  tipo de arquivo (.js.css.png) eu vou converter o código de uma maneira diferente
+
+Loaders => Conceito do WebPack
+Loaders: babel-Loaders,  css-Loader, image-Loader, file-Loader
