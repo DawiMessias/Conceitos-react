@@ -1,5 +1,8 @@
 Babel => converte (transpila) código do React mais atualizado  que o Browser entenda
+
 WebPack => para cada  tipo de arquivo (.js.css.png) eu vou converter o código de uma maneira diferente
+Rodar em development mode => yarn webpack serve --mode development
+
 
 Loaders => Conceito do WebPack
 Loaders: babel-Loaders,  css-Loader, image-Loader, file-Loader
@@ -9,3 +12,12 @@ JSX: HTML dentro do JS (Javascript XML)
 Component => Função que retorna HTML
 
 Fragment => Proteger o component, criando um component sem usar html, basta coloca <> </>
+
+Propriedade => Informação do component pai para o filho, incluir HTML entre os components
+
+Imutabilidade => Não podemos alterar o valor da Variável, recriar as alterações com as informações
+que queremos
+
+Estado => useState retorna um array com 2 posições
+1. Variável com seu valor inicial
+2. Função para atualizarmos esse valor
