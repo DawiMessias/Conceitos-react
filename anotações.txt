@@ -3,3 +3,9 @@ WebPack => para cada  tipo de arquivo (.js.css.png) eu vou converter o código d
 
 Loaders => Conceito do WebPack
 Loaders: babel-Loaders,  css-Loader, image-Loader, file-Loader
+
+JSX: HTML dentro do JS (Javascript XML)
+
+Component => Função que retorna HTML
+
+Fragment => Proteger o component, criando um component sem usar html, basta coloca <> </>
